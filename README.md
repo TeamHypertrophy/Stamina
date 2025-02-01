@@ -1,3 +1,3 @@
-# Testosterone
+# Stamina
 
-Rust Dashboard and Admin Panel
+Hypertrophy Website and Admin Panel
