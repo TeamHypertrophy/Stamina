@@ -25,7 +25,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - Typescript
 - NextJS
 - React Query
-- React Hook Form
+- Tanstack Form
 - Zustand
 - ApiSauce
 - ShadcnUI
+- Tanstack Pacer
